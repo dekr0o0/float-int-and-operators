@@ -6,5 +6,5 @@ d = int(input())
 P = a + b + c + d
 print(P)
 # Площадь прямоугольника
-S = a * b
+S = a * a
 print(S)
