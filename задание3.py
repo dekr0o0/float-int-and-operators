@@ -1,10 +1,8 @@
 a = int(input())
 b = int(input())
-c = int(input())
-d = int(input())
-# Периметр четырехугольника
-P = a + b + c + d
+# Периметр прямоугольника
+P = 2 * (a + b)
 print(P)
 # Площадь прямоугольника
-S = a * a
+S = a * b
 print(S)
